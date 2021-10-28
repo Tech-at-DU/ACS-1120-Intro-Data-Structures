@@ -19,7 +19,7 @@ By completing this project, you should be able to…
 
 ### Submission Requirements:
 1. Your submitted code should be in a new (public) repo on Github.
-1. Your repository should have a minimum of **5 commits**. 
+1. Your repository should have a minimum of **5 commits**.
 1. Your repo should include a README with the name of your project and a description.
 1. Create a demo video. The demo should include a walkthrough of your code and demonstration of your project working.
 1. [Optional] Upload your video to Google Drive and share a link if Gradescope upload speeds are too slow.
@@ -27,7 +27,7 @@ By completing this project, you should be able to…
 
 ### Assignment Requirements:
 
-Download the [starter code from here](https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/tree/master/src/PlaylistLinkedList-StarterCode), which includes:
+Download the [starter code from here](https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/tree/master/src/PlaylistLinkedList-StarterCode), which includes:
 
 1. `main.py`
 1. `Playlist.py`
@@ -47,7 +47,7 @@ Your goals are:
 2. Complete the `TODO`s in `Playlist.py`:
   - Create a method called `add_song()` that creates a `Song` object and adds it to the playlist. This method has one parameter called `title`.
   - Create a method called `find_song()` that searches for whether a song exists in the playlist and returns its index. The method has one parameter, `title`, which is the title of the song to be searched for. If the song is found, return its index. If not found, return `-1`.
-  - Create a method called `remove_song()` that removes a song from the playlist. This method takes one parameter, `title`, which is the song that should be removed. 
+  - Create a method called `remove_song()` that removes a song from the playlist. This method takes one parameter, `title`, which is the song that should be removed.
   - Create a method called `length()`, which returns the number of songs in the playlist.
   - Create a method called `print_songs()` that prints a numbered list of the songs in the playlist.
   - Test your solution by running the code in `main.py` and test all of the 5 options.

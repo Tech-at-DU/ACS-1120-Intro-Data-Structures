@@ -1,6 +1,6 @@
 # Linked Lists
 
-The goal of this assignment is to complete the [linked list starter code](https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist.py) so that it is passing all tests in the [linked list test file](https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist_test.py). 
+The goal of this assignment is to complete the [linked list starter code](https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist.py) so that it is passing all tests in the [linked list test file](https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist_test.py).
 
 In this assignment you will complete the following methods inside the linked list class:
 - length(): the number of nodes in the linked list

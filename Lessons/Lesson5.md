@@ -2,7 +2,7 @@
 
 ## Linked Lists
 
-[Slides](https://make-school-courses.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson5.html)
+[Slides](https://tech-at-du.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson5.html)
 
 <!-- > -->
 
@@ -61,7 +61,7 @@ We can think of the data as the treasure and the next as a clue to the next Node
 
 ## Linked List Starter Code
 
-Find the starter code [here](https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist.py)
+Find the starter code [here](https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist.py)
 
 <!-- > -->
 

@@ -2,7 +2,7 @@
 
 ## Arrays
 
-[Slides](https://make-school-courses.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson4.html)
+[Slides](https://tech-at-du.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson4.html)
 
 <!-- > -->
 
@@ -62,9 +62,9 @@ print all the words in the words.txt file in all uppercase letters
 
 ## The Idea of a List
 
-- Lists are used to represent an ordered collection of objects. 
+- Lists are used to represent an ordered collection of objects.
 - There are many ways to build a list
-- In Python lists are actually built using dynamic arrays 
+- In Python lists are actually built using dynamic arrays
 
 <!-- > -->
 

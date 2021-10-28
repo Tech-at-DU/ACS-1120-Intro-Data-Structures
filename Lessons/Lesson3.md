@@ -2,7 +2,7 @@
 
 ## Strings and File I/O Review
 
-[Slides](https://make-school-courses.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson3.html)
+[Slides](https://tech-at-du.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson3.html)
 
 <!-- > -->
 

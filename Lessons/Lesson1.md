@@ -1,7 +1,7 @@
 <!-- .slide: data-background="./../Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Fundamentals and OOP Review Part I
 
-[Slides](https://make-school-courses.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson1.html)
+[Slides](https://tech-at-du.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson1.html)
 
 <!-- > -->
 
@@ -116,7 +116,7 @@ An object is a thing built from the blueprint
 
 ## Methods
 
-Methods are behaviors or functions defined within a class 
+Methods are behaviors or functions defined within a class
 
 <!-- > -->
 

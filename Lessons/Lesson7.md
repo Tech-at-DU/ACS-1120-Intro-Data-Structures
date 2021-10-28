@@ -2,20 +2,20 @@
 
 ## Hash Tables
 
-➡️ [**Slides**](https://make-school-courses.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson7.html ':ignore')
+➡️ [**Slides**](https://tech-at-du.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson7.html ':ignore')
 
 <!-- > -->
 
 ## Interview Question Warmup
 
 1. Draw a linked list with 3 items: "mango", "peach", "pineapple"
-2. Write pseudocode for the append method from memory 
+2. Write pseudocode for the append method from memory
 
 <!-- > -->
 
 ## Hash Tables
 
-- Maps keys → values (any objects) 
+- Maps keys → values (any objects)
 - Python’s dict() / {} type is a hash table
 - Used because of strong average case performance (time complexity)
 
@@ -50,7 +50,7 @@ Think of coat checks...
 ## Which Bucket?
 
 - Hash function outputs are very large integers, but we want the index of a bucket
-- We can use the modulus operator % 
+- We can use the modulus operator %
 
 <code> index = hash(key) % buckets </code>
 
@@ -58,7 +58,7 @@ Think of coat checks...
 
 <!-- > -->
 
-## Hash Collisions 
+## Hash Collisions
 
 - It is impossible to map all possible inputs to a fixed output space without some inputs generating the same output (hash code)
 - Different inputs (keys) generating the same output (hash code) is called a hash collision
@@ -80,7 +80,7 @@ Think of coat checks...
 
 <!-- > -->
 
-## Chaining 
+## Chaining
 
 - Each bucket contains a linked list of entries
 - On collision - add to the bucket’s linked list

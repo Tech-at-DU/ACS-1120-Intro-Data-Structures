@@ -52,7 +52,7 @@ These challenges are more difficult and help you push your skills and understand
 [linked list time complexity worksheet]: https://make.sc/linked-list-time-complexity-worksheet
 [video of linked list time complexity worksheet review]: https://www.youtube.com/watch?v=ZGtkVO6XlmQ
 [video of hash table lecture]: https://www.youtube.com/watch?v=drQ_FfCVxFU
-[hash table slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/HashTables.pdf
+[hash table slides]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Slides/HashTables.pdf
 [hash table video lecture]: https://www.youtube.com/watch?v=nLWXJ6IDKmQ
 [hash table video]: https://www.youtube.com/watch?v=shs0KM3wKv8
 [old hash table video]: https://www.youtube.com/watch?v=h2d9b_nEzoA
@@ -69,5 +69,5 @@ These challenges are more difficult and help you push your skills and understand
 
 [Page 9: Hash Table]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/hash-table
 
-[hash table starter code]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/hashtable.py
-[hash table unit tests]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/hashtable_test.py
+[hash table starter code]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/hashtable.py
+[hash table unit tests]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/hashtable_test.py

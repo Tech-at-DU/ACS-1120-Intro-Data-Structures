@@ -2,7 +2,7 @@
 
 # Algorithm Analysis
 
-➡️ [**Slides**](https://make-school-courses.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson6.html ':ignore')
+➡️ [**Slides**](https://tech-at-du.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson6.html ':ignore')
 
 <!-- > -->
 
@@ -14,7 +14,7 @@ Draw the steps for an algorithm to print out all the items in a linked list
 
 # Big O Notation
 
-- O(1): constant time 
+- O(1): constant time
 - O(n): linear time, increases with the input n
 - O(n^2): Quadratic time, increases exponentially with input n
 

@@ -51,7 +51,7 @@ These challenges are more difficult and help you push your skills and understand
 [histogram, Markov chain and sampling worksheet]: https://make.sc/histogram-worksheet
 [video of histogram, Markov chain, and sampling worksheet review]: https://www.youtube.com/watch?v=ZnfqxrXrXKQ
 [video of array and linked list lecture]: https://www.youtube.com/watch?v=3RQ3ueNSb3k
-[array and linked list slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/ArraysLinkedLists.pdf
+[array and linked list slides]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Slides/ArraysLinkedLists.pdf
 [array and linked list video lecture]: https://www.youtube.com/watch?v=3WWuf4H61Nk
 [linked list video]: https://www.youtube.com/watch?v=njTh_OwMljA
 [array video]: https://www.youtube.com/watch?v=7EdaoE46BTI
@@ -65,5 +65,5 @@ These challenges are more difficult and help you push your skills and understand
 [Page 8: Linked List]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/linked-list
 [iterable container]: https://docs.python.org/3/library/stdtypes.html#typeiter
 
-[linked list starter code]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist.py
-[linked list unit tests]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist_test.py
+[linked list starter code]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist.py
+[linked list unit tests]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist_test.py

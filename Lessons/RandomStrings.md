@@ -49,7 +49,7 @@ These challenges are more difficult and help you push your skills and understand
 
 
 [video of course and project kickoff]: https://www.youtube.com/watch?v=Ka4QT1OxzdI
-[Tweet Generator intro slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/TweetGenerator.pdf
+[Tweet Generator intro slides]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Slides/TweetGenerator.pdf
 [Online Academy]: https://www.makeschool.com/academy
 [Tweet Generator tutorial]: http://make.sc/oa-tweet-generator
 

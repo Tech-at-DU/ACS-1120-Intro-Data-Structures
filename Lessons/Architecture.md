@@ -62,7 +62,7 @@ These challenges are more difficult and help you push your skills and understand
 [coupling]: https://en.wikipedia.org/wiki/Coupling_(computer_programming)
 [iterable container]: https://docs.python.org/3/library/stdtypes.html#typeiter
 
-[dictogram starter code]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/dictogram.py
-[dictogram unit tests]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/dictogram_test.py
-[listogram starter code]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/listogram.py
-[listogram unit tests]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Code/listogram_test.py
+[dictogram starter code]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/dictogram.py
+[dictogram unit tests]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/dictogram_test.py
+[listogram starter code]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/listogram.py
+[listogram unit tests]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/listogram_test.py

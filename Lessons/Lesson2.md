@@ -1,7 +1,7 @@
 <!-- .slide: data-background="./../Images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # Fundamentals and OOP Review Part II
 
-[Slides](https://make-school-courses.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson2.html)
+[Slides](https://tech-at-du.github.io/CS-1.2-Intro-Data-Structures/Slides/Lesson2.html)
 
 <!-- > -->
 
@@ -70,15 +70,15 @@ Let's Draw Stuff!
 
 ## What if we wanted to draw many squares?
 
-How can we make our code more efficient and reusable? 
+How can we make our code more efficient and reusable?
 
 <iframe src="https://trinket.io/embed/python/ab48086abe" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <!-- > -->
 
-## How can we convert this code to a class? 
+## How can we convert this code to a class?
 
-How can we make our code more efficient and reusable? 
+How can we make our code more efficient and reusable?
 
 <iframe src="https://trinket.io/embed/python/ab48086abe" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 

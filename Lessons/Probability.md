@@ -37,7 +37,7 @@ These challenges are more difficult and help you push your skills and understand
 
 [video of histogram comparison whiteboard activity]: https://www.youtube.com/watch?v=w0F7gZbSoHg
 [video of probability and sampling lecture]: https://www.youtube.com/watch?v=-fq36v2KjR8
-[probability and sampling slides]: https://github.com/Make-School-Courses/CS-1.2-Intro-Data-Structures/blob/master/Slides/Probability.pdf
+[probability and sampling slides]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Slides/Probability.pdf
 [Page 4: Stochastic Sampling]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/stochastic-sampling-506e62a9-e8be-486f-8c72-486baa8c3454
 [random module]: https://docs.python.org/3/library/random.html
 [Randomly Picking Items with Given Probabilities]: https://www.safaribooksonline.com/library/view/python-cookbook-2nd/0596007973/ch04s22.html
