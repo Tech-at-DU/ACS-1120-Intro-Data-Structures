@@ -1,6 +1,6 @@
 ## Repository Setup Instructions
 
-The course's *upstream* repository (located at `https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures`) contains course materials including the schedule, class topics, tutorial milestones, challenges, starter code, unit tests, slides, and links to resources.
+The course's *upstream* repository (located at `https://github.com/tech-at-du/ACS-1120-Intro-Data-Structures`) contains course materials including the schedule, class topics, tutorial milestones, challenges, starter code, unit tests, slides, and links to resources.
 It will be updated throughout the course, so you will need to regularly *pull* from it to get new materials.
 (Note that you cannot *push* to the course's upstream repository.)
 However, you can *clone* this repo to get upstream changes and also push your code to your own repo.
@@ -17,15 +17,15 @@ Set up your local clone of this course repo on your computer.
   `cd ~/MakeSchool/Courses` (or something similar for your folders)
 
   - Then run this command to *clone* the course repo:
-  `git clone https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures.git`
+  `git clone https://github.com/tech-at-du/ACS-1120-Intro-Data-Structures.git`
 
   - Now navigate into the new folder Git just created:
-  `cd CS-1.2-Intro-Data-Structures`
+  `cd ACS-1120-Intro-Data-Structures`
 
-1. [**Create a new empty repo** on GitHub](https://github.com/new) also named `CS-1.2-Intro-Data-Structures` and **do not** initialize it with a ReadMe. (Creating a *new* repo instead of a *fork* allows you to earn credit towards your GitHub commit streak.)
+1. [**Create a new empty repo** on GitHub](https://github.com/new) also named `ACS-1120-Intro-Data-Structures` and **do not** initialize it with a ReadMe. (Creating a *new* repo instead of a *fork* allows you to earn credit towards your GitHub commit streak.)
 
 1. **Set the `origin` remote's URL** on your local repo to point to your new repo on GitHub:
-`git remote set-url origin https://github.com/<your-username>/CS-1.2-Intro-Data-Structures.git`
+`git remote set-url origin https://github.com/<your-username>/ACS-1120-Intro-Data-Structures.git`
 
 1. **Push your local repo** to your *remote* GitHub repo to link your `master` branch to your `origin` remote:
 `git push -u origin master`
@@ -39,7 +39,7 @@ Set up your local clone of this course repo on your computer.
 Connect your local clone of this course repo to the *upstream* repo on GitHub.
 
 1. Add this course's upstream repo as another *remote* to your local repo with:
-`git remote add upstream https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures.git`
+`git remote add upstream https://github.com/tech-at-du/ACS-1120-Intro-Data-Structures.git`
 
 1. Verify that you have two remotes: `origin` (with your username in the URL) and `upstream` (with `tech-at-du`):
 `git remote -v`
