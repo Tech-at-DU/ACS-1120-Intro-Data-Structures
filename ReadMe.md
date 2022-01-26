@@ -76,12 +76,6 @@ Read the [project rubric][] before the due date to ensure your code meets all ex
 [project rubric]: https://make.sc/cs12-rubric
 
 
-## Prerequisites
-
-Students must pass the following course and demonstrate mastery of its competencies:
--   [CS 1.1: Programming Fundamentals](https://make.sc/cs11)
-
-
 ## Learning Objectives
 
 By the end of this course, students will be able to:
