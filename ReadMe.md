@@ -57,10 +57,10 @@ A project based course that looks under the hood at data structures and algorith
 
 | Deliverable                | Date Started | Date Due | Submission Form             |
 | :------------------------- | :----------: | :------: | :-------------------------- |
-| [Project Check-in][]       | Wed, Jan 22  |    -     | [Submit Project Check-in][] |
-| [Linked List Challenges][] | Mon, Nov 11  |    -     | [Submit Linked List][]      |
-| [Hash Table Challenges][]  | Mon, Nov 18  |    -     | [Submit Hash Table][]       |
-| [Final Project][]          | Mon, Oct 21  |    -     | [Submit Final Project][]    |
+| [Project Check-in][]       | Wed, Jan 22  |   TBD    | [Submit Project Check-in][] |
+| [Linked List Challenges][] |     TBD      |   TBD    | [Submit Linked List][]      |
+| [Hash Table Challenges][]  |     TBD      |   TBD    | [Submit Hash Table][]       |
+| [Final Project][]          |     TBD      |   TBD    | [Submit Final Project][]    |
 
 Read the [project rubric][] before the due date to ensure your code meets all expectations.
 
