@@ -23,6 +23,7 @@ A project based course that looks under the hood at data structures and algorith
 |   2   | [Histogram Data Structures][]      |                                                                 |
 |   -   | Histogram Lab Day                  | Choose 2 Histograms: List, Tuple, or Dictionary                 |
 |   3   | [Probability & Sampling][]         |                                                                 |
+|   -   | Sampling Lab Day                   | Complete Page 4 of Tutorial                                     |
 |   4   | [Flask Web App Development][]      |                                                                 |
 |   5   | [Application Architecture][]       |                                                                 |
 |   6   | [Generating Sentences][]           |                                                                 |
