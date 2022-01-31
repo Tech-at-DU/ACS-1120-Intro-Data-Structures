@@ -1,1 +1,17 @@
+- [**Schedule**](ReadMe.md)
+- [**Tweet Generator Tutorial**](https://makeschool.org/mediabook/oa/tutorials/tweet-generator--data-structures---probability-with-python/lets-get-started/)
+- [**Quiz Study Guides**](StudyGuides.md)
+- [**Course Recordings**](https://bit.ly/droxey-vids)
+- **Lessons**
+  - [Strings & Random Numbers](Lessons/RandomStrings.md)
+  - [Histogram Data Structures](Lessons/Histograms.md)
+  - [Probability & Sampling](Lessons/Probability.md)
+  - [Flask Web App Development](Lessons/FlaskWebApp.md)
+  - [Application Architecture](Lessons/Architecture.md)
+  - [Generating Sentences](Lessons/Sentences.md)
+  - [Arrays & Linked Lists](Lessons/ArraysLinkedLists.md)
+  - [Hash Tables](Lessons/HashTables.md)
+  - [Algorithm Analysis](Lessons/AlgorithmAnalysis.md)
+  - [Higher Order Markov Chains](Lessons/MarkovChains.md)
+  - [Regular Expressions](Lessons/RegularExpressions.md)
 
