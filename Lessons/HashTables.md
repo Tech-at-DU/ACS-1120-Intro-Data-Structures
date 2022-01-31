@@ -1,4 +1,13 @@
-# [Hash Tables](https://docs.google.com/presentation/d/1pQDkjQfe5aEohm0N1uU_Ntg8QNsOpVs3Q5UTNuyb0Ys/edit#slide=id.p)
+# Hash Tables
+
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Activities](#activities)
+1. [Objectives](#objectives)
+1. [Resources](#resources)
+1. [Challenges](#challenges)
+1. [Stretch Challenges](#stretch-challenges)
 
 ## Activities
 - Complete [linked list time complexity worksheet]

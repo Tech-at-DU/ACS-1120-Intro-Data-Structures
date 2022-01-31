@@ -1,18 +1,36 @@
-# [Flask Web App Development](https://docs.google.com/presentation/d/1IYRiJYRSD9w3a5pY9_tBC1iDVgfAvdjuZFxbJ3nLvCo/edit#slide=id.g7dd52372eb_0_67)
+# Flask Web App Development
+
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Activities](#activities)
+1. [Objectives](#objectives)
+1. [Challenges](#challenges)
+1. [Stretch Challenges](#stretch-challenges)
+1. [Resources](#resources)
 
 ## Activities
+
 - Compare implementations for sampling words based on observed frequency
 - Visualize how sampling algorithms work by drawing pictures with a number line
     - Watch [video of sampling algorithms whiteboard activity]
 - Discuss tradeoffs of different sampling techniques based on histogram implementations
 
 ## Objectives
+
 After completing this class session and the associated tutorial challenges, students will be able to ...
+
 - Set up Python virtual environments for package isolation
+- Properly ignore unnessessary Python files and corpus data
+    - Set up gitignore.io command line tool and run `gi python > .gitignore`
+    - Add `data` folder and move corpus to new location
+    - Ignore `data` folder in `.gitignore`
+- Set up a root route (`/`) that will serve a random word or sentence
 - Build and test simple Flask web apps on local computers
 - Deploy Flask web apps to Heroku cloud hosted servers
 
 ## Challenges
+
 These challenges are the baseline required to complete the project and course.
 Be sure to complete these before next class session and before starting on the stretch challenges below.
 - [Page 5: Flask Web App]
@@ -21,7 +39,9 @@ Be sure to complete these before next class session and before starting on the s
     - Push your Flask web app to Heroku servers (on the Web)
 
 ## Stretch Challenges
+
 These challenges are more difficult and help you push your skills and understanding to the next level.
+
 - [Page 5: Flask Web App]
     - Improve the style of your page with CSS
     - Display more than one generated word
@@ -30,6 +50,7 @@ These challenges are more difficult and help you push your skills and understand
     - Add a button and route to store favorites (chosen by users) with a database
 
 ## Resources
+
 - Read The Hitchhiker's Guide to Python's tutorial on [virtual environments]
 - Consult documentation for Python's [`virtualenv` tool]
 - Read the [Flask quickstart] to jump right in and follow the [Flask tutorial]

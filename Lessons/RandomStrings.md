@@ -1,4 +1,13 @@
-# [Strings & Random Numbers](https://docs.google.com/presentation/d/137XVqxjeV0wYyxjPZwW3UKtaOR6R2uVYArw2-_5Qt7Q/edit#slide=id.p)
+# Strings & Random Numbers
+
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Activity](#activity)
+1. [Objectives](#objectives)
+1. [Challenges](#challenges)
+1. [Stretch Challenges](#stretch-challenges)
+1. [Resources](#resources)
 
 ## Activity
 - Review prerequisite skills and knowledge

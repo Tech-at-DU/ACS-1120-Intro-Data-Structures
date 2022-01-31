@@ -1,4 +1,13 @@
-# [Arrays & Linked Lists](https://docs.google.com/presentation/d/108BfIVUqSgx6lOntEjZiJIuLlQ1yMfcUhiQJkJn87lM/edit#slide=id.p)
+# Arrays & Linked Lists
+
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Activities](#activities)
+1. [Objectives](#objectives)
+1. [Resources](#resources)
+1. [Challenges](#challenges)
+1. [Stretch Challenges](#stretch-challenges)
 
 ## Activities
 - Complete [histogram, Markov chain and sampling worksheet]

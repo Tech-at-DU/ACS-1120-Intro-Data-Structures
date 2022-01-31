@@ -1,5 +1,14 @@
 # Higher Order Markov Chains
 
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Activities](#activities)
+1. [Objectives](#objectives)
+1. [Resources](#resources)
+1. [Challenges](#challenges)
+1. [Stretch Challenges](#stretch-challenges)
+
 ## Activities
 - Code review implementations of hash table class instance methods
 - Lecture and discussion on building higher order Markov chains with larger window sizes

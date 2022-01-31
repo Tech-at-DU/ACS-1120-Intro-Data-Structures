@@ -1,4 +1,12 @@
-# [Application Architecture](https://docs.google.com/presentation/d/1Fkmjr13xG6iWzL0IIVoS3lTDzY-_kzgm302rABl1cko/edit#slide=id.g6e8a1bb03a_0_63)
+# Application Architecture
+
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Activities](#activities)
+1. [Objectives](#objectives)
+1. [Challenges](#challenges)
+1. [Stretch Challenges](#stretch-challenges)
 
 ## Activities
 - Review code with partners and use [code review rubric] to assess quality

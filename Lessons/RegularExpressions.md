@@ -1,5 +1,14 @@
 # Regular Expressions
 
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Activities](#activities)
+1. [Objectives](#objectives)
+1. [Resources](#resources)
+1. [Challenges](#challenges)
+1. [Stretch Challenges](#stretch-challenges)
+
 ## Activities
 - Code review implementations of higher order Markov chains
 - Review structures used to build Markov chain and discuss scalability

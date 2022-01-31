@@ -1,6 +1,13 @@
-# [Histogram Data Structures](https://docs.google.com/presentation/d/1hFArsihiDByjiNm42kpAXHFIbRLXCIXw6SLLzInWI08/edit#slide=id.p)
+# Histogram Data Structures
 
-# [Histograms Part 2](https://docs.google.com/presentation/d/1V7-gTKR1flCrPTTIjMSDaMubevSrCu5i8tODLbgz890/edit#slide=id.g6e22aad45f_0_98)
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Activities](#activities)
+1. [Objectives](#objectives)
+1. [Challenges](#challenges)
+1. [Stretch Challenges](#stretch-challenges)
+1. [Resources](#resources)
 
 ## Activities
 - Compare code quality and techniques for rearranging words

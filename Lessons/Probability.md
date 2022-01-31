@@ -1,4 +1,13 @@
-# [Probability & Sampling](https://docs.google.com/presentation/d/1rX0fkg-PdG_ypu4EL_cN_dDZ96UCrZkmEXeRRdT99lI/edit#slide=id.g6e846b49fc_2_76)
+# Probability & Sampling
+
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Activities](#activities)
+1. [Objectives](#objectives)
+1. [Challenges](#challenges)
+1. [Stretch Challenges](#stretch-challenges)
+1. [Resources](#resources)
 
 ## Activities
 - Compare code quality for histogram implementations

@@ -1,4 +1,16 @@
-# [Algorithm Analysis](https://docs.google.com/presentation/d/1bZ1jGmCobX7qia3qRGe4wIq7aLx6F9lOQsAxnE63Nv4/edit#slide=id.p)
+# Algorithm Analysis
+
+<!-- omit in toc -->
+## Table of Contents
+
+1. [Linked List Activities](#linked-list-activities)
+1. [Hash Table Activities](#hash-table-activities)
+1. [Objectives](#objectives)
+1. [Resources](#resources)
+1. [Challenges](#challenges)
+   1. [Linked List Challenges](#linked-list-challenges)
+   1. [Hash Table Challenges](#hash-table-challenges)
+1. [Stretch Challenges](#stretch-challenges)
 
 ## Linked List Activities
 - Complete [linked list worksheet]
