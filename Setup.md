@@ -1,6 +1,6 @@
 ## Repository Setup Instructions
 
-The course's *upstream* repository (located at `https://github.com/tech-at-du/ACS-1120-Intro-Data-Structures`) contains course materials including the schedule, class topics, tutorial milestones, challenges, starter code, unit tests, slides, and links to resources.
+The course's *upstream* repository (located at `https://github.com/Tech-at-DU/ACS-1120-Intro-Data-Structures`) contains course materials including the schedule, class topics, tutorial milestones, challenges, starter code, unit tests, slides, and links to resources.
 It will be updated throughout the course, so you will need to regularly *pull* from it to get new materials.
 (Note that you cannot *push* to the course's upstream repository.)
 However, you can *clone* this repo to get upstream changes and also push your code to your own repo.
@@ -14,10 +14,10 @@ Set up your local clone of this course repo on your computer.
 1. **Clone** (do not *fork*) this repo from GitHub onto your local computer.
 
   - First open your terminal and navigate into the folder where you keep your course material and projects:
-  `cd ~/MakeSchool/Courses` (or something similar for your folders)
+  `cd ~/ACS/Courses` (or something similar for your folders)
 
   - Then run this command to *clone* the course repo:
-  `git clone https://github.com/tech-at-du/ACS-1120-Intro-Data-Structures.git`
+  `git clone https://github.com/Tech-at-DU/ACS-1120-Intro-Data-Structures.git`
 
   - Now navigate into the new folder Git just created:
   `cd ACS-1120-Intro-Data-Structures`
@@ -39,9 +39,9 @@ Set up your local clone of this course repo on your computer.
 Connect your local clone of this course repo to the *upstream* repo on GitHub.
 
 1. Add this course's upstream repo as another *remote* to your local repo with:
-`git remote add upstream https://github.com/tech-at-du/ACS-1120-Intro-Data-Structures.git`
+`git remote add upstream https://github.com/Tech-at-DU/ACS-1120-Intro-Data-Structures.git`
 
-1. Verify that you have two remotes: `origin` (with your username in the URL) and `upstream` (with `tech-at-du`):
+1. Verify that you have two remotes: `origin` (with your username in the URL) and `upstream` (with `Tech-at-DU`):
 `git remote -v`
 
 1. When you want to access new course materials, first be sure you've committed and pushed your recent work (run `git status` to check) and then *pull* from the course's upstream repo with:
