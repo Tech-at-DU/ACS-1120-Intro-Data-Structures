@@ -1,0 +1,5 @@
+TODO: Replace this comment with the text of your corpus.
+Big text goes here, but should not be committed to the repo!
+We will learn how to store large data on the internet soon.
+
+RENAME THIS FILE TO `corpus.txt` TO ENSURE IT GETS IGNORED PROPERLY!
