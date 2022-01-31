@@ -50,8 +50,7 @@ A project based course that looks under the hood at data structures and algorith
 [Regular Expressions]: Lessons/RegularExpressions.md
 
 [Due]: ReadMe.md#Deliverable-Schedule
-[Quiz]: https://make.sc/cs12-quiz-study-guides
-
+[Quiz]: StudyGuides.md
 
 ### Deliverable Schedule
 
@@ -105,4 +104,4 @@ To pass this course, students must meet the following requirements:
 -   Pass the summative assessment (total of all quiz scores)
     - Review the [quiz study guides][] with the lesson topics and learning outcomes (skills) you need to demonstrate, links to the best lesson activities, slides, and resources to review while preparing
 
-[quiz study guides]: https://make.sc/cs12-quiz-study-guides
+[quiz study guides]: StudyGuides.md
