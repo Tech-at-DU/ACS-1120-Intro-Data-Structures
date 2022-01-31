@@ -106,14 +106,3 @@ To pass this course, students must meet the following requirements:
     - Review the [quiz study guides][] with the lesson topics and learning outcomes (skills) you need to demonstrate, links to the best lesson activities, slides, and resources to review while preparing
 
 [quiz study guides]: https://make.sc/cs12-quiz-study-guides
-
-
-## Attendance
-
-Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30am to 5:30pm each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
-
-Attendance requirements for scheduled sessions are:
--   No more than two unexcused absences ("no-call-no-shows") per term in any scheduled session.
--   No more than four excused absences (communicated in advance) per term in any scheduled session.
-
-Failure to meet these requirements will result in a Participation Improvement Plan (PIP).
