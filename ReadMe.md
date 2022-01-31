@@ -1,4 +1,4 @@
-# CS 1.2: Intro to Data Structures
+# ACS 1120: Intro to Data Structures
 
 ## Course Description
 
@@ -12,9 +12,9 @@ A project based course that looks under the hood at data structures and algorith
 
 ## Schedule
 
-**Course Dates:** Monday, October 21 – Wednesday, December 11, 2019 (7.5 weeks)
+**Course Dates:** Wednesday, January 19 – Friday, March 11, 2022
 
-**Class Times:** Monday & Wednesday at 1:30-3:20pm (section A) or 3:30–5:20pm (section B)
+**Class Times:** Monday, Wednesday, & Friday at 4:30-6:20pm
 
 
 | Class | Lesson Topics                      | Deliverable Due or Quiz                                         |
@@ -57,7 +57,7 @@ A project based course that looks under the hood at data structures and algorith
 
 | Deliverable                | Date Started | Date Due | Submission Form             |
 | :------------------------- | :----------: | :------: | :-------------------------- |
-| [Project Check-in][]       | Wed, Jan 22  |   TBD    | [Submit Project Check-in][] |
+| [Project Check-in][]       | Wed, Jan 19  |   TBD    | [Submit Project Check-in][] |
 | [Linked List Challenges][] |     TBD      |   TBD    | [Submit Linked List][]      |
 | [Hash Table Challenges][]  |     TBD      |   TBD    | [Submit Hash Table][]       |
 | [Final Project][]          |     TBD      |   TBD    | [Submit Final Project][]    |
