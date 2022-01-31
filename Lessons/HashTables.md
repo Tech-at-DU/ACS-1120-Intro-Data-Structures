@@ -76,7 +76,7 @@ These challenges are more difficult and help you push your skills and understand
 [iterable container]: https://docs.python.org/3/library/stdtypes.html#typeiter
 [Python `dict` type]: https://docs.python.org/3/library/stdtypes.html#dict
 
-[Page 9: Hash Table]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/hash-table
+[Page 9: Hash Table]: https://bit.ly/tutorial-tweet-generator
 
 [hash table starter code]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/hashtable.py
 [hash table unit tests]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/hashtable_test.py

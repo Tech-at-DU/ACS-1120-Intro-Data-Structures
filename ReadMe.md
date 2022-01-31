@@ -92,7 +92,7 @@ By the end of this course, students will be able to:
 ## Project Tutorial
 
 Students will complete the following guided project tutorial in this course:
--   [Tweet Generator: Data Structures & Probability with Python](https://makeschool.org/mediabook/oa/tutorials/tweet-generator--data-structures---probability-with-python/lets-get-started/)
+-   [Tweet Generator: Data Structures & Probability with Python](https://bit.ly/tutorial-tweet-generator)
 
 
 ## Evaluation

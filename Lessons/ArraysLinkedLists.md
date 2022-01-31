@@ -71,7 +71,7 @@ These challenges are more difficult and help you push your skills and understand
 [doubly linked list]: https://en.wikipedia.org/wiki/Doubly_linked_list
 [VisuAlgo list]: https://visualgo.net/list
 
-[Page 8: Linked List]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/linked-list
+[Page 8: Linked List]: https://bit.ly/tutorial-tweet-generator
 [iterable container]: https://docs.python.org/3/library/stdtypes.html#typeiter
 
 [linked list starter code]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist.py

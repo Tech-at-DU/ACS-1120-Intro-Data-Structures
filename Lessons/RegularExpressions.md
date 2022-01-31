@@ -54,7 +54,7 @@ These challenges are more difficult and help you push your skills and understand
 
 
 [regular expressions lecture]: https://www.youtube.com/watch?v=roUtBDH3Obc
-[regular expressions slides]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Slides/RegularExpressions.pdf
+[regular expressions slides]: https://github.com/tech-at-du/ACS-1120-Intro-Data-Structures/blob/master/Slides/RegularExpressions.pdf
 [regular expressions cheat sheet]: https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
 [UBC regex lab]: http://www.ugrad.cs.ubc.ca/~cs121/2015W1/Labs/Lab8/lab8.html
 [RegExr]: https://regexr.com/
@@ -63,5 +63,7 @@ These challenges are more difficult and help you push your skills and understand
 [SO match HTML tags]: http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags
 [SO why not HTML]: http://stackoverflow.com/questions/590747/using-regular-expressions-to-parse-html-why-not
 
-[Page 13: Parsing Text and Clean Up]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/parsing-text-and-clean-up-969fe44d-6090-45d0-be85-c12e75cbade6
-[Page 14: Tokenization]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/tokenization-551b78bf-22a5-4c32-8a33-0b5f9e93a0e1
+[Page 13: Parsing Text and Clean Up]: https://bit.ly/tutorial-tweet-generator
+
+[Page 14: Tokenization]: https://bit.ly/tutorial-tweet-generator
+

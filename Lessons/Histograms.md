@@ -40,4 +40,4 @@ These challenges are more difficult and help you push your skills and understand
 - HackerRank's [Python challenges](https://www.hackerrank.com/domains/python/py-basic-data-types) – try the basic data types and strings sections
 
 
-[Page 3: Analyze Word Frequency in Text]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/analyze-word-frequency-in-text-372496dc-c68b-4752-b656-e32b69a3d45b
+[Page 3: Analyze Word Frequency in Text]: https://bit.ly/tutorial-tweet-generator

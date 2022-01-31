@@ -60,7 +60,7 @@ These challenges are more difficult and help you push your skills and understand
 
 
 [video of sampling algorithms whiteboard activity]: https://www.youtube.com/watch?v=C0jk6HLj6Tk
-[Page 5: Flask Web App]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/flask-web-app-ea916e69-cf94-4a51-8fa6-9d4ac013da65
+[Page 5: Flask Web App]: https://bit.ly/tutorial-tweet-generator
 [virtual environments]: http://docs.python-guide.org/en/latest/dev/virtualenvs/
 [`virtualenv` tool]: https://virtualenv.pypa.io/en/stable/
 [Flask]: http://flask.pocoo.org/

@@ -59,8 +59,8 @@ These challenges are more difficult and help you push your skills and understand
 
 [video of course and project kickoff]: https://www.youtube.com/watch?v=Ka4QT1OxzdI
 [Tweet Generator intro slides]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Slides/TweetGenerator.pdf
-[Online Academy]: https://www.makeschool.com/academy
+[Online Academy]: https://bit.ly/tutorial-tweet-generator
 [Tweet Generator tutorial]: http://make.sc/oa-tweet-generator
 
-[Page 1: Let’s Get Started]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/let-s-get-started
-[Page 2: Random Dictionary Words]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/random-dictionary-words-0f05439f-f238-4cb7-9be4-535aefaf0f2f
+[Page 1: Let’s Get Started]: https://bit.ly/tutorial-tweet-generator
+[Page 2: Random Dictionary Words]: https://bit.ly/tutorial-tweet-generator

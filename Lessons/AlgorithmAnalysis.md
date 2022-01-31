@@ -95,7 +95,7 @@ These challenges are more difficult and help you push your skills and understand
 [`time` module]: https://docs.python.org/3/library/time.html
 [`timeit` module]: https://docs.python.org/3/library/timeit.html
 
-[Page 10: Performance Analysis]: https://www.makeschool.com/academy/tutorial/tweet-generator-data-structures-probability-with-python/performance-analysis
+[Page 10: Performance Analysis]: https://bit.ly/tutorial-tweet-generator
 
 [linked list source code]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/linkedlist.py
 [hash table source code]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/hashtable.py
