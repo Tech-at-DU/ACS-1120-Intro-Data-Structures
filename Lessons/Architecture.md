@@ -62,7 +62,7 @@ These challenges are more difficult and help you push your skills and understand
         ```
 
 
-[code review rubric]: https://bit.ly/code-review-rubric
+[code review rubric]: https://docs.google.com/document/d/1zx0snt-A1OZakZSAemb6hjJSsQeyCQQJq68XiIyOcKM/edit
 [how OOP actually works]: https://docs.google.com/presentation/d/1NUyQQKdMNwyXDdZjehxFvU6wjCpoYaTQPSYm1FIVhvE/edit?usp=sharing
 [Page 6: Application Architecture]: https://bit.ly/tutorial-tweet-generator
 [coupling]: https://en.wikipedia.org/wiki/Coupling_(computer_programming)
