@@ -61,24 +61,17 @@ By the end of this course, students will be able to:
 
 ### Deliverable Schedule
 
-| Deliverable                | Date Started |   Date Due    | Submission Form                                                                         |
-| :------------------------- | :----------: | :-----------: | :-------------------------------------------------------------------------------------- |
-| **Project Check-In**       | Wed, Jan 19  |  Sun, Feb 6   | [Submit Project Check-In][https://www.gradescope.com/courses/76047/assignments/1826588] |
-| **Linked List Challenges** |  Mon, Feb 7  |  Sun, Feb 13  | [Submit Linked List][https://www.gradescope.com/courses/76047/assignments/1829207]      |
-| **Hash Table Challenges**  | Mon, Feb 14  |  Sun, Feb 20  | [Submit Hash Table][https://www.gradescope.com/courses/76047/assignments/1829208]       |
-| **Final Project**          | Mon, Feb 21  | Fri, March 11 | [Submit Final Project][https://www.gradescope.com/courses/76047/assignments/1826588]    |
+| Deliverable                  | Date Started |   Date Due    | Submission Form                                                                         |
+| :--------------------------- | :----------: | :-----------: | :-------------------------------------------------------------------------------------- |
+| **[Project Check-In]**       | Wed, Jan 19  |  Sun, Feb 6   | [Submit Project Check-In][https://www.gradescope.com/courses/76047/assignments/1826588] |
+| **[Linked List Challenges]** |  Mon, Feb 7  |  Sun, Feb 13  | [Submit Linked List][https://www.gradescope.com/courses/76047/assignments/1829207]      |
+| **[Hash Table Challenges]**  | Mon, Feb 14  |  Sun, Feb 20  | [Submit Hash Table][https://www.gradescope.com/courses/76047/assignments/1829208]       |
+| **[Final Project]**          | Mon, Feb 21  | Fri, March 11 | [Submit Final Project][https://www.gradescope.com/courses/76047/assignments/1826588]    |
 
-[Project Check-in]: Lessons/FlaskWebApp.md
+[Project Check-In]: Lessons/FlaskWebApp.md
 [Linked List Challenges]: Lessons/ArraysLinkedLists.md#Challenges
 [Hash Table Challenges]: Lessons/HashTables.md#Challenges
 [Final Project]: Lessons/MarkovChains.md
-
-[Submit Project Check-in]: https://gradescope.com
-[Submit Linked List]: https://gradescope.com
-[Submit Hash Table]: https://gradescope.com
-[Submit Final Project]: https://gradescope.com
-
-[project rubric]: https://make.sc/cs12-rubric
 
 
 ## Project Tutorial
