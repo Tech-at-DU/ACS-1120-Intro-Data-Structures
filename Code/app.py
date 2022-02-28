@@ -4,11 +4,8 @@ from flask import Flask
 
 app = Flask(__name__)
 
-
-@app.before_first_request
-def before_first_request():
-    """Runs only once at Flask startup"""
-    # TODO: Initialize your histogram, hash table, or markov chain here.
+# TODO: Initialize your histogram, hash table, or markov chain here.
+# Any code placed here will run only once, when the server starts.
 
 
 @app.route("/")
