@@ -12,11 +12,6 @@
 1. [Challenges](#challenges)
 1. [Stretch Challenges](#stretch-challenges)
 
-  1. [Instructions](#instructions)
-
-6. [Challenges](#challenges)
-7. [Stretch Challenges](#stretch-challenges)
-
 ## Activities
 
 - Code review implementations of higher order Markov chains
