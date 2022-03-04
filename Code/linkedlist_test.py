@@ -139,10 +139,10 @@ class LinkedListTest(unittest.TestCase):
 
     def test_find(self):
         ll = LinkedList(['A', 'B', 'C'])
-        assert ll.find('B') == True
-        assert ll.find('A') == True  # Match less than
-        assert ll.find('C') == True  # Match greater than
-        assert ll.find('X') == False   # No matching item
+        assert ll.find(lambda item: item == 'B') == 'B'  # Match equality
+        assert ll.find(lambda item: item < 'B') == 'A'  # Match less than
+        assert ll.find(lambda item: item > 'B') == 'C'  # Match greater than
+        assert ll.find(lambda item: item == 'X') is None  # No matching item
 
     def test_delete_with_3_items(self):
         ll = LinkedList(['A', 'B', 'C'])
@@ -190,6 +190,15 @@ class LinkedListTest(unittest.TestCase):
         # Delete should raise error if item not found
         with self.assertRaises(ValueError):
             ll.delete('X')  # Item not found in list
+
+    def test_replace_with_item(self):
+        ll = LinkedList(['A', 'B', 'C'])
+        # for item in list
+        ll.replace('A', 'D')
+        assert ll.head.data == 'D'
+        # for item not in list
+        ll.replace('X', 'M')
+        assert ll.head.data == 'D'
 
 
 if __name__ == '__main__':
