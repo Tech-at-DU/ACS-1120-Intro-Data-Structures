@@ -1,10 +1,7 @@
-# Regular Expressions 
+# Regular Expressions
 
-<!-- omit in toc -->
+## Table of Contents <!-- omit in toc -->
 
- ## Table of Contents
-
-1. [Table of Contents](#table-of-contents)
 1. [Activities](#activities)
 1. [Objectives](#objectives)
 1. [Resources](#resources)

@@ -1,8 +1,8 @@
 - [**Schedule**](ReadMe.md)
-- [**Tweet Generator Tutorial**](https://bit.ly/tutorial-tweet-generator)
-- [**Quiz Study Guides**](StudyGuides.md)
+- [**Tweet Generator Tutorial**](https://bit.ly/tutorial-tweet-generator) <!-- - [**Quiz Study Guides**](StudyGuides.md) --> 
 - [**Course Recordings**](https://bit.ly/droxey-vids)
 - **Lessons**
+
   - [Strings & Random Numbers](Lessons/RandomStrings.md)
   - [Histogram Data Structures](Lessons/Histograms.md)
   - [Probability & Sampling](Lessons/Probability.md)
@@ -14,4 +14,3 @@
   - [Algorithm Analysis](Lessons/AlgorithmAnalysis.md)
   - [Higher Order Markov Chains](Lessons/MarkovChains.md)
   - [Regular Expressions](Lessons/RegularExpressions.md)
-
