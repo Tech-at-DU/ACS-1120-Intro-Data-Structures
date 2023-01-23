@@ -13,12 +13,8 @@
 - Compare code quality for histogram implementations
 - Refactor code to improve readability, modularity, and performance
 - Compare tradeoffs of different histogram implementations
-
-  - Watch [video of histogram comparison whiteboard activity]
-
 - Lecture and discussion following [probability and sampling slides]
-
-  - Watch [video of probability and sampling lecture]
+- Watch a previous recording of this lecture to review and reinforce concepts
 
 ## Objectives
 
@@ -58,5 +54,4 @@ These challenges are more difficult and help you push your skills and understand
 [probability and sampling slides]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Slides/Probability.pdf
 [random module]: https://docs.python.org/3/library/random.html
 [randomly picking items with given probabilities]: https://www.safaribooksonline.com/library/view/python-cookbook-2nd/0596007973/ch04s22.html
-[video of histogram comparison whiteboard activity]: https://www.youtube.com/watch?v=w0F7gZbSoHg
-[video of probability and sampling lecture]: https://www.youtube.com/watch?v=-fq36v2KjR8
+
