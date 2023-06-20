@@ -39,10 +39,11 @@ Day | Lesson Topics
 10  | Hash Table [Algorithm Analysis]
 11  | [Higher Order Markov Chains][final project]
 12  | [Regular Expressions]
-13  | Time to Tweet
-14  | Launch Day!
+13  | Lab Day
+14  | Launch Day: Show & Tell
 
-### Deliverable Schedule
+#<!--
+## Deliverable Schedule
 
 Deliverable                                       | Date Started |   Date Due    | Submission Form
 :------------------------------------------------ | :----------: | :-----------: | :--------------------------------------------------------------------------------------
@@ -50,6 +51,8 @@ Deliverable                                       | Date Started |   Date Due   
 **[Linked List Challenges]**                      |  Mon, Feb 7  |  Sun, Feb 13  | [Submit Linked List](https://www.gradescope.com/courses/76047/assignments/1829207)
 **[Hash Table Challenges]**                       | Mon, Feb 14  |  Sun, Feb 20  | [Submit Hash Table](https://www.gradescope.com/courses/76047/assignments/1829208)
 **[Final Project]**                               | Mon, Feb 21  | Fri, March 11 | [Submit Final Project](https://www.gradescope.com/courses/76047/assignments/1826588)
+-->
+
 
 ## Project Tutorial
 
@@ -64,8 +67,7 @@ To pass this course, students must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 - Complete the required [project tutorial](#project-tutorial)
-- Pass the project according to the associated [project rubric][]
-- Pass the summative assessment (total of all quiz scores) <!-- - Review the [quiz study guides][quiz] with the lesson topics and learning outcomes (skills) you need to demonstrate, links to the best lesson activities, slides, and resources to review while preparing -->
+- Turn in all deliverables on Gradescope
 
 [algorithm analysis]: Lessons/AlgorithmAnalysis.md
 [application architecture]: Lessons/Architecture.md
