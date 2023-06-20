@@ -42,7 +42,8 @@ Day | Lesson Topics
 13  | Lab Day
 14  | Launch Day: Show & Tell
 
-#<!--
+<!--
+
 ## Deliverable Schedule
 
 Deliverable                                       | Date Started |   Date Due    | Submission Form
