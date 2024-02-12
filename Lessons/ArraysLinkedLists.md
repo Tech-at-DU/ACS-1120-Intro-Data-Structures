@@ -10,21 +10,17 @@
 
 ## Activities
 
-- Complete histogram, Markov chain and sampling worksheet.
-
-- Draw diagram of your Markov chain mental model and related data structures
-
-- Compare and contrast diagram representations and code organization with partners
-
+- Complete [histogram, Markov chain and sampling worksheet](https://github.com/Tech-at-DU/ACS-1120-Intro-Data-Structures/blob/master/Worksheets/Histogram_MarkovChains.pdf).
+  - Draw diagram of your Markov chain mental model and related data structures
+  - Compare and contrast diagram representations and code organization with partners
+- Code review students' first effort at Markov chain data structure
 - Review how to build a Markov chain from text and generate sentences from it
-
 - Lecture and discussion following array and linked list slides.
-
 - Act out how dynamic array and linked list data structures and algorithms work
 
 ## Objectives
 
-After completing this class session and the associated tutorial challenges, students will be able to ...
+After completing this class session and the associated tutorial challenges, students will be able to&hellip;
 
 - Diagram abstract concepts implemented with nested data structures
 - Describe and diagram how arrays and linked lists are stored in memory
