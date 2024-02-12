@@ -10,9 +10,7 @@
 
 ## Activities
 
-- Complete [histogram, Markov chain and sampling worksheet]
-
-  - Watch [video of histogram, Markov chain, and sampling worksheet review]
+- Complete histogram, Markov chain and sampling worksheet.
 
 - Draw diagram of your Markov chain mental model and related data structures
 
@@ -20,9 +18,7 @@
 
 - Review how to build a Markov chain from text and generate sentences from it
 
-- Lecture and discussion following [array and linked list slides]
-
-  - Watch [video of array and linked list lecture]
+- Lecture and discussion following array and linked list slides.
 
 - Act out how dynamic array and linked list data structures and algorithms work
 
@@ -38,9 +34,6 @@ After completing this class session and the associated tutorial challenges, stud
 
 ## Resources
 
-- Review Make School's [array and linked list slides]
-- Watch Make School's [array and linked list video lecture]
-- Watch HackerRank's [linked list video]
 - Watch Harvard's [array video], [singly linked list video], and [doubly linked list video]
 - Play with VisuAlgo's [interactive linked list visualization][visualgo list]
 - Read Wikipedia's [dynamic array article] and [linked list article]
