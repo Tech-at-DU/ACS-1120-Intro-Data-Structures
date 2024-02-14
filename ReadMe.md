@@ -22,8 +22,8 @@ By the end of this course, students will be able to:
 
 ## Schedule
 
-**Course Dates:** Wednesday, January 20 – Friday, March 11, 2022<br>
-**Class Times:** Monday, Wednesday, & Friday at 4:30-6:20pm PST
+**Course Dates:** 2024 Term 3 (January 17 - March 4)<br>
+**Class Times:** Monday, Wednesday 4:00 - 6:45pm PST
 
 Day | Lesson Topics
 :-: | :------------------------------------------
@@ -34,13 +34,13 @@ Day | Lesson Topics
 05  | [Application Architecture]
 06  | [Generating Sentences]
 07  | [Arrays & Linked Lists]
+-   | Lab Day
 08  | [Algorithm Analysis]
 09  | [Hash Tables]
 10  | Hash Table [Algorithm Analysis]
 11  | [Higher Order Markov Chains][final project]
 12  | [Regular Expressions]
-13  | Lab Day
-14  | Launch Day: Show & Tell
+13  | Launch Day: Show & Tell
 
 <!--
 
