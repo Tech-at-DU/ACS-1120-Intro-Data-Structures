@@ -34,7 +34,7 @@ Day | Lesson Topics
 05  | [Application Architecture]
 06  | [Generating Sentences]
 07  | [Arrays & Linked Lists]
--   | Lab Day
+| - | Lab Day 
 08  | [Algorithm Analysis]
 09  | [Hash Tables]
 10  | Hash Table [Algorithm Analysis]
