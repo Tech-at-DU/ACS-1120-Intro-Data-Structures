@@ -12,8 +12,6 @@
 
 - Complete [linked list time complexity worksheet]
 
-  - Watch [video of linked list time complexity worksheet review]
-
 - Lecture and discussion following [hash table slides]
 
 - Act out how hash table data structure and algorithms work
@@ -71,7 +69,7 @@ These challenges are more difficult and help you push your skills and understand
 
 [collision resolution]: https://en.wikipedia.org/wiki/Hash_table#Collision_resolution
 [hash table article]: https://en.wikipedia.org/wiki/Hash_table
-[hash table slides]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Slides/HashTables.pdf
+[hash table slides]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Slides/HashTables.key
 [hash table starter code]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/hashtable.py
 [hash table unit tests]: https://github.com/tech-at-du/CS-1.2-Intro-Data-Structures/blob/master/Code/hashtable_test.py
 [hash table video]: https://www.youtube.com/watch?v=shs0KM3wKv8
