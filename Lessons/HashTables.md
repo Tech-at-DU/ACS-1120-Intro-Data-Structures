@@ -16,8 +16,6 @@
 
 - Lecture and discussion following [hash table slides]
 
-  - Watch [video of hash table lecture]
-
 - Act out how hash table data structure and algorithms work
 
 ## Objectives
