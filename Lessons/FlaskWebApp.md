@@ -30,7 +30,7 @@ After completing this class session and the associated tutorial challenges, stud
 
 - Set up a root route (`/`) that will serve a random word or sentence
 - Build and test simple Flask web apps on local computers
-- Deploy Flask web apps to Heroku cloud hosted servers
+- Deploy Flask web apps to Render cloud hosted servers
 
 ## Challenges
 
@@ -40,7 +40,7 @@ These challenges are the baseline required to complete the project and course. B
 
   - Set up an isolated virtual environment with `virtualenv`
   - Develop a Flask web app locally (access via `localhost`)
-  - Push your Flask web app to Heroku servers (on the Web)
+  - Push your Flask web app to Render servers (on the Web)
 
 ## Stretch Challenges
 
@@ -61,7 +61,6 @@ These challenges are more difficult and help you push your skills and understand
 - Read the [Flask quickstart] to jump right in and follow the [Flask tutorial]
 - Consult the [Flask documentation] to learn more and solve specific problems
 - Read [Explore Flask], a book about best practices and patterns for developing web apps with Flask
-- Install the [Heroku command line interface][heroku cli] to manage Heroku apps from your terminal
 
 [`virtualenv` tool]: https://virtualenv.pypa.io/en/stable/
 [explore flask]: https://exploreflask.com/en/latest/
@@ -69,7 +68,6 @@ These challenges are more difficult and help you push your skills and understand
 [flask documentation]: http://flask.pocoo.org/docs/0.11/
 [flask quickstart]: http://flask.pocoo.org/docs/0.11/quickstart/
 [flask tutorial]: http://flask.pocoo.org/docs/0.11/tutorial/
-[heroku cli]: https://devcenter.heroku.com/articles/heroku-cli
 [page 5: flask web app]: https://bit.ly/tutorial-tweet-generator
 [video of sampling algorithms whiteboard activity]: https://www.youtube.com/watch?v=C0jk6HLj6Tk
 [virtual environments]: http://docs.python-guide.org/en/latest/dev/virtualenvs/
