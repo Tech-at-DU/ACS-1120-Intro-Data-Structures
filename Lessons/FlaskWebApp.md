@@ -12,9 +12,6 @@
 
 - Compare implementations for sampling words based on observed frequency
 - Visualize how sampling algorithms work by drawing pictures with a number line
-
-  - Watch [video of sampling algorithms whiteboard activity]
-
 - Discuss tradeoffs of different sampling techniques based on histogram implementations
 
 ## Objectives
