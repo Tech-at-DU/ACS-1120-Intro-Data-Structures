@@ -32,7 +32,7 @@ Day | Lesson Topics
 03  | [Probability & Sampling]
 04  | [Flask Web App Development]
 05  | [Application Architecture]
-06  | [Generating Sentences]
+06  | [Markov Chains][generating sentences]
 07  | [Arrays & Linked Lists]
 | - | Lab Day 
 08  | [Algorithm Analysis]
@@ -76,7 +76,7 @@ To pass this course, students must meet the following requirements:
 [due]: ReadMe.md#Deliverable-Schedule
 [final project]: Lessons/MarkovChains.md
 [flask web app development]: Lessons/FlaskWebApp.md
-[generating sentences]: Lessons/Sentences.md
+[generating sentences]: Lessons/MarkovEnhanced.md
 [hash table challenges]: Lessons/HashTables.md#Challenges
 [hash tables]: Lessons/HashTables.md
 [higher order markov chains]: Lessons/MarkovChains.md

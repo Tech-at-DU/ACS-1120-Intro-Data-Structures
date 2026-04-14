@@ -124,7 +124,7 @@
 
 ### First Order Markov Chains
 
-[lesson activities and resources](Lessons/MarkovChains.md)
+[lesson activities and resources](Lessons/MarkovEnhanced.md)
 
 * Draw a conceptual diagram of a 1st order Markov chain generated from a text.
 * Show the data structures that store state transitions in a 1st order Markov chain.
@@ -134,7 +134,7 @@
 
 ### Higher Order Markov Chains
 
-[lesson activities and resources](Lessons/MarkovChains.md)
+[lesson activities and resources](Lessons/MarkovEnhanced.md)
 
 * Draw a conceptual diagram of a 2nd order Markov chain generated from a text.
 * Show the data structures that store state transitions in a 2nd order Markov chain.
